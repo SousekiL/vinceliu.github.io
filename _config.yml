@@ -1,7 +1,7 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "Vince's blog"
+description: "Personal Blog Website"
 
-avatar: https://pianfan.github.io/images/avatar.png
+avatar: https://vinceliu.github.io/images/avar.png
 favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: vinceliu127@gmail.com
   facebook:
-  github: pianfan
+  github: SousekiL
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 Vince
 
-url: https://pianfan.github.io
+url: https://vinceliu.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
