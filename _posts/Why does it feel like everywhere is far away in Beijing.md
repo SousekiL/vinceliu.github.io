@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Why does it feel like everywhere is far away in Beijing?"
+date:   2023-8-29
+tags: [data]
+comments: true
+author: Vince
+---
+
 ## **Why does it feel like everywhere is far away in Beijing?**
 ## 为什么在北京感觉去哪里都很远？
 
