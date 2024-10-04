@@ -8,9 +8,9 @@ permalink: /about/
 
 Hello, I am Vince Liu. 
 
-I am currently pursuing a Master's degree in Predictive Analytics & Risk Management at UIUC, within the Department of Mathematics. Prior to this, I gained several years of experience working as a data analyst and data scientist at leading internet companies in China, such as Kuaishou and Douyin.
+I am currently pursuing a Master's degree in Predictive Analytics & Risk Management at UIUC, within the Department of Mathematics. Prior to this, I gained several years of experience working as a data analyst and data scientist at leading tech companies in China, such as Kuaishou and Douyin.
 
-This is my personal blog, created using the GitHub Pages platform, where I document and share my learning experiences and growth in the field of technology.
+This is my personal blog, created using the GitHub platform, where I document and share my learning experiences and growth in the field of technology.
 
 If you have any questions about my articles or notice any errors, feel free to contact me via email.
 
