@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /About/
+permalink: /about/
 ---
 
 ## Welcome to Vince Liu’s personal website!
