@@ -5,11 +5,11 @@ avatar: https://vinceliu.github.io/images/avar.png
 favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
-  - name: 首页
+  - name: Home
     url: /
-  - name: 关于
+  - name: About
     url: /about
-  - name: 分类
+  - name: Tags
     url: /tags
 
 paginate: 8
