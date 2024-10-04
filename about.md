@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-## 关于我
+## About Me
 
-你好，我是翩帆，本科软件工程专业在读。
+Hello, I am Vince Liu. I am currently pursuing a Master's degree in Predictive Analytics & Risk Management at the University of Illinois at Urbana-Champaign, within the Department of Mathematics. Prior to this, I gained several years of experience working as a data analyst and data scientist at leading internet companies in China, such as Kuaishou and Douyin.
 
-这是我基于 GitHub Pages 平台创建的个人博客，用于记录和分享我在技术方面的学习心得与成长收获。
+This is my personal blog, created using the GitHub Pages platform, where I document and share my learning experiences and growth in the field of technology.
 
-如果你对我的文章有任何疑问，或者发现文章中存在错误，可以通过邮件与我联系。
+If you have any questions about my articles or notice any errors, feel free to contact me via email.
 
-## 版权声明
+## Copyright Notice
 
-本博客文章都是我的原创文章，版权归我所有，转载请与我联系获得授权许可。
+All articles on this blog are my original work. The copyright belongs to me. Please contact me for authorization if you wish to reproduce any content.
