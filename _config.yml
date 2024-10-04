@@ -1,8 +1,8 @@
 name: "Vince's blog"
 description: "Personal Blog Website"
 
-avatar: https://SousekiL.github.io/images/avar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://SousekiL.github.io/images/avatar.png
+favicon: 
 
 navigation:
   - name: Home
