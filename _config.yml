@@ -1,7 +1,7 @@
 name: "Vince's blog"
 description: "Personal Blog Website"
 
-avatar: https://vinceliu.github.io/images/avar.png
+avatar: https://SousekiL.github.io/images/avar.png
 favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
@@ -27,7 +27,7 @@ footer-links:
 
 footer-text: Copyright (c) 2024 Vince
 
-url: https://sousekil.github.io
+url: https://SousekiL.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
