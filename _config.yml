@@ -6,7 +6,7 @@ favicon:
 
 navigation:
   - name: Home
-    url: /
+    url: /posts
   - name: About
     url: /about
   - name: Tags
